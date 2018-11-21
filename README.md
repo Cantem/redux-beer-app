@@ -30,7 +30,7 @@ npm start
 1. Add more data to home page along with a price for each beer.
 2. On `/checkout` page enable `quantity` and `total` to pay for items in the cart.
 3. Search by name field.
-4. Add `delete` from cart button.
+4. Add `delete` from cart button on the `checkout` page.
 5. Change CSS to SCSS.
 6. Add more responsive design.
 
